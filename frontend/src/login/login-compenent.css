@@ -1,0 +1,22 @@
+.login-margin{
+    margin-top: 300px;
+    display: 'flex';
+}
+
+.form{
+    padding: 50px;
+    background-color: rgb(221, 220, 220);
+    box-shadow: 0;
+    border-radius: 5px;
+}
+
+.form-group{
+    padding-inline: 500px;
+}
+
+.linha{
+    background-color: rgb(131, 131, 131);
+    padding: 1px;
+    margin-block: 30px;
+    margin-inline: 350px;
+}
